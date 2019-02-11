@@ -339,8 +339,8 @@ main{
   width: 92.592vw;
   background: white;
   margin-top: 6vw;
-  border-left: 2.296vw solid rgba(255, 255, 255, 0.3);
-  border-top: 2px solid rgba(255, 255, 255, 0.3);
+  border-left: 2.296vw solid rgba(255, 255, 255, 0.05);
+  border-top: 2px solid rgba(255, 255, 255, 0.05);
   background-clip: padding-box;
   /* margin-bottom: 5vw; */
 }
